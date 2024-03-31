@@ -1,4 +1,4 @@
-## Read-It-Loud
+## real time language translation app 
 * An Android App that takes pdf file from the device file manager as input and translate the text from one language(here English ) to  another language(here Hindi).
 
 
