@@ -2,7 +2,7 @@
 * An Android App that takes pdf file from the device file manager as input and translate the text from one language(here English ) to  another language(here Hindi).
 
 
-<h1 align="center">:memo: Read-It-Loud ! :speaking_head::ear_with_hearing_aid:</h1>
+<h1 align="center">:memo: Language Translator! :speaking_head::ear_with_hearing_aid:</h1>
 <div align="center">
   <img src="./screenshots/icon.png" width="150px" height="150px"></img>
 
